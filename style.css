@@ -44,7 +44,7 @@ a {
   }
 .aplicativo {
     background-color: rgb(19, 131, 75);
-    width: 500px;
+    width: 400px;
     height: 300px;
     text-align: center;
     color: #232027;
@@ -114,11 +114,11 @@ a {
 }
 
 .divImagem {
-    background-image: url('imagens/noite1.jpg'); /* Substitua com o caminho para a sua imagem */
+    background-image: url('https://img.freepik.com/fotos-premium/linda-noite-no-oceano-com-lua-cheia_104785-866.jpg'); /* Substitua com o caminho para a sua imagem */
     background-size: contain; /* Para ajustar a imagem ao tamanho da tela */
     background-repeat: no-repeat; /* Para evitar repetição da imagem */
     /*background-attachment: fixed; /* Para manter a imagem fixa enquanto a página rola */
-    width: 500px;
+    width: 400px;
     height: auto; /* Defina a altura da div para cobrir a altura da tela */
     border-radius: 25px;
 }
@@ -139,7 +139,7 @@ a {
 }
 .habilidades {
     background-color: rgb(18, 21, 24);
-    width: 500px;
+    width: 400px;
     height: auto;
     border-radius: 25px;
 }
@@ -159,13 +159,12 @@ a {
 }
 .menu {
     background-color: rgb(64, 70, 75);
-    width: 10%;
+    width: 20%;
     height: 60px;
     display: flex;
     text-align: center;
     border-radius: 5px;
-    margin-top: -55px;
-    margin-left: 20px;
+    margin-top: -75px;
 }
 
 .calculterreno {
@@ -174,7 +173,7 @@ a {
 }
 .calculterreno1 {
     background-color: rgb(19, 131, 75);
-    width: 500px;
+    width: 400px;
     height: auto;
     border-radius: 25px;
     text-align: center;
@@ -198,7 +197,7 @@ main {
 
 .iframe1 {
     align-items: center;
-    width: 480px;
+    width: 380px;
     height: 270px;
     border: none;
     
